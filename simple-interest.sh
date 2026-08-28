@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash.
 
 echo "Enter principal amount:"
 read principal
